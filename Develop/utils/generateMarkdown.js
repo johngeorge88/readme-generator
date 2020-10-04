@@ -55,7 +55,7 @@ ${data.credits}
 
 ## Questions:
 * <a href="https://www.github.com/${data.gitName}">GitHub</a>
-* <a href="mailto:${data.email}">You can also e-mail me for any other questions</a>
+* <a href="mailto:${data.email}">You can also e-mail me for git any other questions</a>
 `;
 }
 
