@@ -1,11 +1,11 @@
 
-  # John test 1
+  # Read me Generator
 
   ### License:
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-  testing again
+  This application is made to create a well organized read me file to your applications
 
   ## Table of Contents
 * [Installation](#installation)
@@ -16,20 +16,20 @@
 * [Questions](#questions)
 
 ## Installation
-inst
+Installation instructions here
 
 ## Usage 
 undefined
 
 ## Testing
-testing
+here is the insuctions for testing
 
 ## Contribution
-contrinbution
+here is your guidelines  for contribution
 
 ## Credits:
-third
+here is a list of the third party apps
 
 ## Questions:
 * <a href="https://www.github.com/https://github.com/johngeorge88">GitHub</a>
-* <a href="mailto:johniskandar@hotmail.com">You can also e-mail me for more any other questions</a>
+* <a href="mailto:johniskandar@hotmail.com">You can also e-mail me for git any other questions</a>
